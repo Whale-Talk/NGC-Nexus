@@ -51,7 +51,7 @@ QGC 功能完整但前端交互偏"工程师自用"：参数页面信息密度�
 | [03 QGC 参数链路](docs/NGC-Nexus/03_QGC参数链路.md) | QGC 侧：MAVLink 报文 → `ParameterManager` → `Fact` → 元数据裁决 |
 | [04 参数到界面映射](docs/NGC-Nexus/04_参数到界面映射.md) | 元数据字段 → QML 控件、分组/搜索/单位/越界/reboot/降级 |
 | [05 APM 参数系统对照](docs/NGC-Nexus/05_APM参数系统对照.md) | ArduPilot 差异、双固件适配点、"有 UI 无支持"清单 |
-| [06 前端技术栈评估](docs/NGC-Nexus/06_前端技术栈评估-HTML化可行性.md) | HTML 化 / 去 Qt 的可行性量化评估、三条路线对比与分阶段建议 |
+| [06 前端技术栈评估](docs/NGC-Nexus/06_前端技术栈评估-Electron技术栈.md) | Electron/Chromium 栈替代 Qt QML 的可行性、ArduDeck 先例、两条路线与许可分析 |
 | [10 参数系统综述](docs/NGC-Nexus/10_参数系统综述.md) | 跨全部来源的整合报告与前端改造切入点 |
 
 ---
